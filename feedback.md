@@ -1,0 +1,6 @@
+- Pas d'en-tête dans votre module (nom, prénom, date et explicatif)
+- Bibliothèque window.h inutile, si vous respectez l'affichage demandé par la donnée
+- Votre code ne compile pas. De plus, vous utilisez l'instruction goto, à proscrire!
+- Affichage non conforme à l'énoncé.
+- Pas de constantes pour les entrées utilisateur ('O' et 'N')
+- La prochaine fois, inclure les fichiers de compilation cmake dans votre repo!
